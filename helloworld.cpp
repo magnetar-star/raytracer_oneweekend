@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main(int argc, char** argv)
+int main()
 {
     vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
 
